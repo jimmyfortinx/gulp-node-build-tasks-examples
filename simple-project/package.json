@@ -1,0 +1,31 @@
+{
+  "name": "gulp-node-build-tasks-examples-simple",
+  "version": "0.0.1",
+  "description": "Simple example about the awesome project gulp-node-build-tasks.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jimmyfortinx/gulp-node-build-tasks-examples.git"
+  },
+  "keywords": [
+    "gulp",
+    "build",
+    "tasks",
+    "server",
+    "examples"
+  ],
+  "author": "Jimmy Fortin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimmyfortinx/gulp-node-build-tasks-examples/issues"
+  },
+  "homepage": "https://github.com/jimmyfortinx/gulp-node-build-tasks-examples",
+  "devDependencies": {
+    "gulp-node-build-tasks": "https://github.com/jimmyfortinx/gulp-node-build-tasks.git"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
