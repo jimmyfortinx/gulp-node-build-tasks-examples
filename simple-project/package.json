@@ -26,6 +26,7 @@
     "gulp-node-build-tasks": "https://github.com/jimmyfortinx/gulp-node-build-tasks.git"
   },
   "dependencies": {
-    "express": "^4.13.3"
+    "express": "^4.13.3",
+    "lodash": "^3.10.1"
   }
 }
