@@ -7,6 +7,4 @@ var config = {
     projectDirectory: __dirname
 }
 
-gulpNodeBuildTasks.use(gulp);
-gulpNodeBuildTasks.configure(config);
-gulpNodeBuildTasks.registerTasks();
+gulpNodeBuildTasks.apply(config, gulp);
